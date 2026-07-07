@@ -1,0 +1,6 @@
+{
+  "name": "Clip AI",
+  "description": "Clip AI is an advanced all-in-one platform integrating over 15 state-of-the-art AI systems into a single creative workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
